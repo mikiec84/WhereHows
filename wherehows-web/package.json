@@ -67,7 +67,7 @@
     "eyeglass-restyle": "^1.1.0",
     "husky": "^0.14.3",
     "lint-staged": "^4.3.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "prettier": "^1.7.4",
     "redux": "^3.6.0",
     "redux-thunk": "^2.2.0",
